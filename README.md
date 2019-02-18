@@ -1,2 +1,3 @@
 # midoCMS-admin
-miaoduCMS system Administrator Client
+miaoduCMS system Administrator Cli
+## 安装使用
